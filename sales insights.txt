@@ -1,0 +1,22 @@
+
+
+ 1.South Region Leads in Sales.
+
+* The South region has the highest total sales: ₹725.46K, contributing 31.85% of the overall sales.
+* This indicates a strong customer base or high-value transactions in the South
+
+2. Central Region Lags Behind.
+
+* The Central region has the lowest sales: ₹391.72K, just 17.05% of the total.
+* This may suggest lower market penetration, fewer customers, or a need for better marketing efforts.
+
+3. Stable Sales Trend with Seasonal Fluctuations.
+
+* The Monthly Sales Trend shows fluctuations — peaks and drops across months.
+* While no single massive spike is visible, consistent ups and downs hint at seasonal buying patterns or marketing cycle.
+
+ 4. Top Two Regions (South + Central) Contribute Over 60%
+
+* South (31.85%) + East (21.82%) = Over 50% of total sales
+* Focusing on these regions can optimize marketing returns, but also reveals over-reliance on a few regions.
+
